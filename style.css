@@ -18,8 +18,8 @@ nav
 {
     height: 10%;
     width: 100%;
-    background-color: rgb(9, 9, 65);
-    color: yellow;
+    background-color: rgb(48, 48, 156);
+    color: rgb(196, 35, 142);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -114,7 +114,7 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
-background: linear-gradient(to right,rgb(23, 187, 83) ,blue);
+background: linear-gradient(to right,rgb(64, 247, 131) ,blue);
 }
 .features
 {
@@ -125,7 +125,7 @@ padding: 30px;
 height: 40vmax;
 width: 100%;
 color: yellowgreen;
-background-color: rgb(27, 151, 149);
+background-color: rgb(1, 116, 114);
 }
 .micro-Interaction
 {
